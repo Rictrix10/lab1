@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="enter">Entrar</string>
+    <string name="exit">Sair</string>
+    <string name="at1">Atividade 1</string>
+    <string name="at1_land">Atividade Número 1</string>
+    <string name="at2">Atividade 2</string>
+    <string name="at2_land">Atividade Número 2</string>
+    <string name="name">"Nome do Aluno: Ricardo Gonçalves"</string>
+    <string name="email">"Email do Aluno: rcerqueiragoncalves@ipvc.pt"</string>
+    <string name="number">Número de Aluno: 28235</string>
+</resources>

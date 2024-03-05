@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="enter">Enter</string>
+    <string name="exit">Exit</string>
+    <string name="at1">Activity 1</string>
+    <string name="at2">Activity 2</string>
+    <string name="at1_land">Activity Number 1</string>
+    <string name="at2_land">Activity Number 2</string>
+    <string name="name">Student name: Ricardo Gonçalves</string>
+    <string name="email">Student email: rcerqueiragoncalves@ipvc.pt</string>
+    <string name="number">Student number: 28235</string>
+</resources>
